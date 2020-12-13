@@ -12,4 +12,7 @@ Attributes of our db are:
 * Update of an old Student info
 * Deletion of an information
 * read an information from db
+## Developer
+* LinkedIn:  https://www.linkedin.com/in/sandip-ghosh-2ab072183/
+* HackerRank: https://www.hackerrank.com/sandipghoshtiu
 
