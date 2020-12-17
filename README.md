@@ -7,6 +7,12 @@ Attributes of our db are:
 * Student Name
 * Student Department
 * Student Email
+## Image
+
+
+
+<img src="assets/image.PNG" >
+
 ## Operation inside the DB
 * Insertion of new student
 * Update of an old Student info
